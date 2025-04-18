@@ -20,7 +20,7 @@ from datetime import datetime
 import telebot
 import random
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
-token = "8175865038:AAGoFrhMwI7Sw6xXf2zr6MVPFB2dlz_Ix_I" 
+token = "7752241245:AAFxmL9QN3C_uwCSouP7YXzyrTfm3LjALQU" 
 bot=telebot.TeleBot(token,parse_mode="HTML")
 owners = ["6353114118", "6353114118"]
 
@@ -612,7 +612,7 @@ def help_command(message):
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 💬 <b>Need Help?</b> Contact <a href='https://t.me/SLAYER_OP7'>@SLAYER_OP7</a>  
-📢 <b>Stay Updated:</b> <a href='https://t.me/+70p1qN18osw1YWFl'>Join Official Channel</a>  
+📢 <b>Stay Updated:</b> <a href='https://t.me/+ChPTO181E-1mZjM1'>Join Official Channel</a>  
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━  
 <code>🚀 𝑰𝑺𝑨𝑮𝑰 𝑪𝑨𝑹𝑫𝑬𝑹 - 𝐔𝐋𝐓𝐑𝐀 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐄𝐗𝐂𝐋𝐔𝐒𝐈𝐕𝐄 🔥</code>
 """
